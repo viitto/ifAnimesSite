@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAnime xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Anime>
+    <Id>10</Id>
+    <Titulo>Kimetsu</Titulo>
+    <IdGenero>1</IdGenero>
+  </Anime>
+  <Anime>
+    <Id>20</Id>
+    <Titulo>Nanatsu</Titulo>
+    <IdGenero>1</IdGenero>
+  </Anime>
+</ArrayOfAnime>

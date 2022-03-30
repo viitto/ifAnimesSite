@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEpisodio xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Episodio>
+    <Id>1</Id>
+    <Titulo>Nova era</Titulo>
+    <TituloAnime>Kimetsu</TituloAnime>
+  </Episodio>
+  <Episodio>
+    <Id>2</Id>
+    <Titulo>A jornada continua</Titulo>
+    <TituloAnime>Kimetsu</TituloAnime>
+  </Episodio>
+</ArrayOfEpisodio>
